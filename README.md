@@ -1,4 +1,4 @@
-# fly-bird-game
+# Fly Bird
 A Fly Bird Game (coded by Aymriel)
 
 Thanks for playing the game !
